@@ -1,0 +1,93 @@
+body {
+    background: #cfcfcf;
+}
+
+h1 {
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Prompt', sans-serif;
+    text-align: center;
+    border: black;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.book {
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Prompt', sans-serif;
+
+
+}
+
+h3 {
+    color: purple;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Prompt', sans-serif;
+}
+
+
+.OK {
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Prompt', sans-serif;
+
+}
+
+.colors {
+    color: red;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Prompt', sans-serif;
+}
+
+
+
+
+
+.email {
+    color: black;
+
+}
+
+
+
+.pass {
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Prompt', sans-serif;
+}
+
+.login {
+    color: black
+}
+
+
+
+.work {
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Prompt', sans-serif;
+
+}
+
+
+
+
+
+.box {
+    border: #a9a9a9;
+    border-width: 6px;
+    border-style: solid;
+}
+
+#pass {
+    border: blue;
+    border-width: 6px;
+    border-style: solid;
+}
+
+#email {
+    border: blue;
+    border-width: 6px;
+    border-style: solid;
+}
